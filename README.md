@@ -1,2 +1,3 @@
 # educational_projects
-educational projects
+учебные задания 
+Которые мне нравятся я жеский
